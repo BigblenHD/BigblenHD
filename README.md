@@ -86,5 +86,3 @@ I build systems where **hardware and software meet** — embedded firmware, cust
 ### 🤝 Let's connect
 
 I'm interested in opportunities across **embedded systems, aerospace, robotics and software/AI** — especially projects where hardware and software meet. Reach out via [LinkedIn](https://www.linkedin.com/in/ben-lies-110219374) or [benlies.com](https://benlies.com).
-
-<sub>⚡ Fun fact: <!-- TODO: add your own, e.g. a launch story --></sub>
