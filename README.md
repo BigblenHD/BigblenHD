@@ -71,18 +71,6 @@ I build systems where **hardware and software meet** — embedded firmware, cust
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BigblenHD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigblenHD&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BigblenHD&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ### 🤝 Let's connect
 
 I'm interested in opportunities across **embedded systems, aerospace, robotics and software/AI** — especially projects where hardware and software meet. Reach out via [LinkedIn](https://www.linkedin.com/in/ben-lies-110219374) or [benlies.com](https://benlies.com).
