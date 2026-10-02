@@ -14,7 +14,7 @@ Mechanical Engineering student at ETH Zürich, from Luxembourg. I build systems 
 ## Beyond the public repositories
 
 - **ARIS:** electronics work for student rocketry at ETH Zürich.
-- **Sprout Commerce / LazyCart:** building an AI shopping assistant that helps shoppers explore a merchant's catalogue, compare products and assemble a basket.
+- **EasyCart / LazyCart:** building an AI shopping assistant that helps shoppers explore a merchant's catalogue, compare products and assemble a basket.
 - **Robotics:** embedded control and mechanical development for a line-following delivery robot.
 
 More project context is available at [benlies.com](https://benlies.com).
